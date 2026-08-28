@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-  <a href="mailto:shubhamydv2563@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shubham-yadav-256890326" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/shubhamyadav369" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.codechef.com/users/shubham7712" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="mailto:ry957933@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -27,12 +27,12 @@
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,tailwind,react,nodejs,express,mongodb,Mysql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,tailwind,react,nodejs,express,mongodb,git,github,vscode,postman" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+<!-- ### 🚀 Featured Projects
 
 #### 1. 🌐 LexBridge Mentorship Platform
 - **Tech Stack:** React, Node.js, Express, Socket.io, WebRTC, MongoDB
@@ -49,20 +49,8 @@
 - Lodging marketplace featuring interactive maps, dynamic reviews, secure cloud media storage, and automated property descriptions powered by the Gemini API.
 - [🔗 GitHub Repo](https://github.com/shubham15554/wanderlust) | [🌐 Live Demo](https://wanderlust-demo.com)
 
----
+--- -->
 
-### 📊 GitHub & Coding Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham15554&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=shubham15554&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham15554&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### 🏆 Achievements
 - **LeetCode:** Solved 700+ problems with a peak rating of 1600+.
