@@ -27,7 +27,7 @@
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,tailwind,react,nodejs,express,mongodb,sql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,tailwind,react,nodejs,express,mongodb,Mysql,git,github,vscode,postman" />
 </p>
 
 ---
@@ -37,29 +37,29 @@
 #### 1. 🌐 LexBridge Mentorship Platform
 - **Tech Stack:** React, Node.js, Express, Socket.io, WebRTC, MongoDB
 - Full-stack mentorship and video consultation platform featuring role-based dashboards, secure JWT auth, and peer-to-peer WebRTC video streaming with real-time messaging.
-- [🔗 GitHub Repo](https://github.com/YOUR_GITHUB_USERNAME/lexbridge) | [🌐 Live Demo](https://lexbridge-demo.com)
+- [🔗 GitHub Repo](https://github.com/shubham15554/lexbridge) | [🌐 Live Demo](https://lexbridge-demo.com)
 
 #### 2. 🤖 Nexus.AI - Intelligent Conversational Platform
 - **Tech Stack:** React, Node.js, Socket.io, Gemini API, Pinecone Vector DB
 - Context-aware AI chatbot built with Pinecone for long-term memory retrieval using semantic embeddings and Gemini API, backed by real-time bi-directional communication via Socket.io.
-- [🔗 GitHub Repo](https://github.com/YOUR_GITHUB_USERNAME/nexus-ai) | [🌐 Live Demo](https://nexus-ai-demo.com)
+- [🔗 GitHub Repo](https://github.com/shubham15554/nexus-ai) | [🌐 Live Demo](https://nexus-ai-demo.com)
 
 #### 3. 🏡 Wanderlust AI-Enhanced Vacation Rental Platform
 - **Tech Stack:** MERN Stack, Gemini API, Mapbox API, Cloudinary, JWT
 - Lodging marketplace featuring interactive maps, dynamic reviews, secure cloud media storage, and automated property descriptions powered by the Gemini API.
-- [🔗 GitHub Repo](https://github.com/YOUR_GITHUB_USERNAME/wanderlust) | [🌐 Live Demo](https://wanderlust-demo.com)
+- [🔗 GitHub Repo](https://github.com/shubham15554/wanderlust) | [🌐 Live Demo](https://wanderlust-demo.com)
 
 ---
 
 ### 📊 GitHub & Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham15554&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=shubham15554&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham15554&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
